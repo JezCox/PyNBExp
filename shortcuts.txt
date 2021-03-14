@@ -1,0 +1,3 @@
+Ctrl-A - New cell
+Ctrl-DD - Delete cell
+Shift-Enter - Run cell
